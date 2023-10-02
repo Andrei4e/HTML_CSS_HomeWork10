@@ -699,8 +699,8 @@ a {
         gap: 30px;
         grid-template-columns: repeat(1, 359px);
         padding-top: 65px;
-        max-width: 1600px;
-        min-width: 500px;
+        max-width: 375px;
+        min-width: 320px;
         min-height: 75px;
         align-items: center;
         justify-content: center;
